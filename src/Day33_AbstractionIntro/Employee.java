@@ -1,4 +1,4 @@
-package Day33_AbstractionIntro.EmployeeTask;
+package Day33_AbstractionIntro;
 
 public abstract class Employee {
     private String name;

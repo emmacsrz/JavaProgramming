@@ -53,7 +53,7 @@ public class CydeoBot {
                     run = false;
                     break;
                 default:
-                    System.out.println("Sorry I cannot compute that.  Ask me \"what can we talk about\"");
+                    System.out.println("Sorry I cannot compute that.  Ask me \"what can we talk about\"  Type it exactly like that.  I am a sensitive robot. ");
             }
 
         }

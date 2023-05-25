@@ -1,11 +1,10 @@
 package Day32_FinalKeyword.CarTask;
-
-import Day32_FinalKeyword.CarTask.Car;
-
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Tesla extends Car {
+public  class Tesla extends Car{
 
     public Tesla(String model, String color, int year, double price) {
         super(model, color, year, price);
@@ -72,6 +71,7 @@ public class Tesla extends Car {
     }
 
 }
+
 
 /*
  5. Tesla

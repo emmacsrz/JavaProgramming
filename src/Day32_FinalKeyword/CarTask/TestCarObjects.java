@@ -1,5 +1,7 @@
 package Day32_FinalKeyword.CarTask;
 
+import Day34_AbstractionAndInterface.CarTask.Tesla;
+
 public class TestCarObjects {
     public static void main(String[] args) {
 

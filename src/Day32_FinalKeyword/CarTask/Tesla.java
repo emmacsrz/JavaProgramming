@@ -1,5 +1,6 @@
 package Day32_FinalKeyword.CarTask;
-
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -70,3 +71,20 @@ public  class Tesla extends Car{
     }
 
 }
+
+
+/*
+ 5. Tesla
+               		start(): "Say \"Start\""
+
+	                Extra method:
+	                	  autoPilot()
+
+	                Extra Conditions for the variables:
+	                    1. Model of tesla can only be set to one of the followings:
+	                        {"Model S", "Model Y", "Model x", "Model 3" };
+	                    2. color of tesla can only be set to one of the followings:
+	                        {"White", "Red", "Black", "Silver", "Blue", "Brown", "Green"}
+	                    3. year of the tesla can not be less than 2008
+	                    4. price of tesla can not be less than 50k
+ */
